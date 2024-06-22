@@ -17,7 +17,7 @@ body {
 .textcontent {
   background-color: #507A84;
   color: #FFFFFF;
-  width: 646;
+  width: 646px;
   border: 8px;
   border-color: #845A50;
   border-style: ridge;
@@ -55,7 +55,6 @@ div {
   border: 3px;
   border-color: #845A50;
   border-style: inset;
-  border-width: auto;
+  border-width: 9px;
   margin: 20px;
-
 }

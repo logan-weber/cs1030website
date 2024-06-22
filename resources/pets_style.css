@@ -1,0 +1,67 @@
+/*
+background lilac #cb9ae2
+compliment forest #164B1C
+accent mustard #FFDB58
+*/
+h1 {
+    color: #000000;
+}
+body{
+    background-color: #164B1C;
+    font-size: larger;
+    font: small-caps;
+    margin:12px;
+    text-align: center;
+    color: #fffff0;
+}
+table {
+    margin: auto;
+    width: 1024px;
+    border-collapse: separate;
+}
+
+td {
+    border: 12px;
+    border-color: #8B0000;
+    border-width: thick;
+    border-style: outset;
+    padding: 5px;
+}
+
+th {
+    border: 12px;
+    border-color: #FFDB58;
+    border-width: thick;
+    border-style: inset;
+    padding: 5px;
+}
+
+a {
+    color: #cb9ae2;
+    text-decoration: none;
+    text-align: left;
+}
+ 
+a:hover {
+    color: #FFDB58;
+    text-decoration: underline;
+}
+
+ul {
+    text-align: left;
+}
+
+ol{
+    color: #FFDB58;
+    text-align: right;
+}
+
+img {
+    border: 5px #8B0000 ridge
+}
+
+
+li {
+    margin: 12px;
+    text-align: left;
+}
